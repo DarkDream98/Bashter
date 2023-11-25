@@ -38,7 +38,7 @@ You only need to change the extension, for example `.bash` => `.bashx`.
 [![Linux Debian](https://img.shields.io/badge/Linux-Debian-red.svg)](https://www.debian.org/)
 
 ## How to Run:
-> `git clone https://github.com/zerobyte-id/Bashter.git`
+> `git clone https://github.com/DarkDream98/Bashter.git`
 
 > `cd Bashter/`
 
